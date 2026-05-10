@@ -1,23 +1,99 @@
-# Frontend Practice (HTML, CSS, JavaScript, React)
+# Frontend Projects 🎨
 
-## Description
-This repository contains my frontend development practice using HTML, CSS, JavaScript, and React.
+This repository contains my frontend development practice, mini projects, and modern web development learning journey.
 
-I am building projects and small components to improve my understanding of UI development, responsiveness, and modern frontend concepts.
+I am learning frontend and full stack technologies by building responsive and interactive web applications.
 
-## Tech Stack
+---
+
+## Technologies Used
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- React
+- JavaScript
+- React.js
+- Redux
+- Node.js
 
+---
 
-  ## What I'm Learning
-- Responsive design
-- Flexbox & Grid
-- DOM manipulation
-- Event handling
-- API integration
-- React components & hooks
+## Topics Covered
 
+### HTML
+- Basic Structure
+- Forms
+- Tables
+- Semantic Tags
+- Media Elements
+
+### CSS
+- Selectors
+- Box Model
+- Flexbox
+- Grid
+- Responsive Design
+- Animations
+
+### JavaScript
+- Variables & Data Types
+- Functions
+- DOM Manipulation
+- Events
+- Loops & Conditions
+- ES6 Features
+
+### React.js
+- Components
+- Props
+- State
+- Hooks
+- React Router
+- API Fetching
+
+### Redux
+- Store
+- Actions
+- Reducers
+- State Management
+
+### Node.js
+- Modules
+- Express Basics
+- REST APIs
+- Backend Fundamentals
+
+---
+
+## Projects Included
+- Landing Pages
+- Responsive Navbar
+- Login Form
+- Calculator
+- Portfolio Website
+- To-Do List
+- React Mini Projects
+- Full Stack Practice Apps
+
+---
+
+## Goal
+- Improve frontend and full stack development skills
+- Build responsive and scalable web applications
+- Strengthen JavaScript and React knowledge
+- Create real-world projects
+
+---
+
+## Tools Used
+- VS Code
+- Git & GitHub
+- Chrome Developer Tools
+- Postman
+
+---
+
+## Currently Learning
+- Advanced React
+- Redux Toolkit
+- Backend Development
+- Full Stack Projects
 
